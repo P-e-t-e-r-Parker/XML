@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<root>	
+  <book>
+      <author>Щелкунов Пётр Витальевич</author>
+      <age>24</age>  
+      <pets>no</pets>
+      <zp>60000</zp>
+    </book>
+</root>
