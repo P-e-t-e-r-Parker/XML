@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <root>	
   <steps>
-      <1>Открыть</1>  
-      <2>Кликнуть</2>
-      <3>Ввести в поле значение N1</3>
-      <4>Ввести в поле значение N2</4>
+      <one>Открыть</one>  
+      <two>Кликнуть</two>
+      <three>Ввести в поле значение N1</three>
+      <four>Ввести в поле значение N2</four>
    <Result>
-      <5>В поле Result отображается V1</5> 
+      <one>В поле Result отображается V1</one> 
    </Result>
    <Expected Result>
-      <6>В поле Result отображается V2</6>
+      <one>В поле Result отображается V2</one>
    <Expected Result>
     </steps>
 </root>
