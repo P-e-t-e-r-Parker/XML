@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <root>	
   <book>
-      <1>scrum</1>
-      <2>json</2>
-      <3>xml</3>
-      <4>postman</4>
-      <5>filder</5>
-      <6>dev tools</6>
-      <7>vpn</7>
-      <8>android studio</8>
-      <9>charles</9>
-      <10>terminal</10>
-      <11>sql</11>
-      <12>git</12>
-      <13>jmeter</13>
-      <14>python</14>
-      <15>sdlc</15>
-      <16>stlc</16>
-      <17>api</17>
-      <18>xcode</18>
+      <o>scrum</o>
+      <t>json</t>
+      <t>xml</t>
+      <f>postman</f>
+      <f>filder</f>
+      <s>dev tools</s>
+      <s>vpn</s>
+      <q>android studio</q>
+      <w>charles</w>
+      <e>terminal</e>
+      <r>sql</r>
+      <t>git</t>
+      <y>jmeter</y>
+      <u>python</u>
+      <i>sdlc</i>
+      <o>stlc</o>
+      <p>api</p>
+      <a>xcode</a>
     </book>
 </root>
 
