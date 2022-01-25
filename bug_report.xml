@@ -8,8 +8,8 @@
    <Result>
       <one>В поле Result отображается V1</one> 
    </Result>
-   <Expected Result>
+   <ExpectedResult>
       <one>В поле Result отображается V2</one>
-   <Expected Result>
+   <ExpectedResult>
     </steps>
 </root>
