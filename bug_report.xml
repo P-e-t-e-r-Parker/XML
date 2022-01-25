@@ -10,6 +10,6 @@
    </Result>
    <ExpectedResult>
       <one>В поле Result отображается V2</one>
-   <ExpectedResult>
+   </ExpectedResult>
     </steps>
 </root>
