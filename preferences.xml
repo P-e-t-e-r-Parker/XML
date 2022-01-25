@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>	
-  <book>
-      <film>Мстители</author>
+  <list>
+      <film>Мстители</film>
       <serial>локи</serial>  
       <eda>vse</eda>
       <vremia>leto</vremia>
-      <vremia>America</vremia>
-    </book>
+      <the country>America</the country>
+    </list>
 </root>
