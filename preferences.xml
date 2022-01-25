@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>	
   <book>
       <film>Мстители</author>
-      <serial>локи</age>  
+      <serial>локи</serial>  
       <eda>vse</eda>
       <vremia>leto</vremia>
       <vremia>America</vremia>
